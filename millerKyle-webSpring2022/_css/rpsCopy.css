@@ -1,0 +1,117 @@
+.topBanner {
+    width: 100%;
+    height: 150px;
+    background-color: #46ACC7;
+    border: 50px;
+    text-align: center;
+    font-size: 100px;
+    color: whitesmoke;
+    margin: 0px;
+        
+        /* These vertically center the text in the banner */
+    line-height: 150px;
+    vertical-align: 150px;
+}
+.ChooseOne {
+    width: 100%;
+    height: 80px;
+    background-color: #46ACC7;
+    border: 50px;
+    text-align: center;
+    font-size: 60px;
+    color: whitesmoke;
+    margin: 0px;
+        
+        /* These vertically center the text in the banner */
+    line-height: 80px;
+    vertical-align: 80px;
+}
+.myRpsHeading {
+    width: 100%;
+    height: 150px;
+    background-color: #46ACC7;
+    border: 50px;
+    text-align: center;
+    font-size: 100px;
+    color: whitesmoke;
+    margin: 0px;
+    
+    /* These vertically center the text in the banner */
+    line-height: 150px;
+    vertical-align: 150px;
+}
+
+.rock {
+    background-color: #46A4C7;
+    border: none;
+    color: #A3E8FB;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    filter: drop-shadow(0 0 0.75rem black);
+        /* creates a drop shadow for mybutton */
+    border-radius: 15px;
+}
+.paper {
+    background-color: #46A4C7;
+    border: none;
+    color: #A3E8FB;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    filter: drop-shadow(0 0 0.75rem black);
+        /* creates a drop shadow for mybutton */
+    border-radius: 15px;
+}
+.scissors {
+    background-color: #46A4C7;
+    border: none;
+    color: #A3E8FB;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    filter: drop-shadow(0 0 0.75rem black);
+        /* creates a drop shadow for mybutton */
+    border-radius: 15px;
+}
+
+.UserResults{
+    width: 100%;
+    height: 100px;
+    background-color: #46ACC7;
+    border: 50px;
+    font-size: 60px;
+    color: whitesmoke;
+    margin: 0px;
+    text-align: center;
+        
+        /* These vertically center the text in the banner */
+    line-height: 100px;
+    vertical-align: 100px;
+}
+.ComputerResults{
+    width: 100%;
+    height: 100px;
+    background-color: #46ACC7;
+    border: 50px;
+    font-size: 60px;
+    color: whitesmoke;
+    margin: 0px;
+    text-align:center;
+        
+        /* These vertically center the text in the banner */
+    line-height: 100px;
+    vertical-align: 100px;
+}
